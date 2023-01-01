@@ -1,0 +1,38 @@
+a {
+    color: #eee;
+}
+
+.about, ul {
+    padding: 32px 32px 0;
+}
+
+.botao ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.botao li, .box li {
+    border: 1px solid #232425;
+    padding: 10px;
+    border-radius: 5px;
+    list-style-type: none;
+    transition: all 0.2s ease-in-out;
+    background-color: #11111199;
+}
+
+.botao h3 {
+    margin: 20px 0 0 0;
+}
+
+.botao ul li:hover {
+    transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+    .botao ul li {
+        transform: scale(0.9);
+    }
+    .botao ul li a {
+        font-size: 90%;
+    }
+}
