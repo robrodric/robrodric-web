@@ -11,7 +11,8 @@ function AboutMe() {
         </div>
       <div className="box">
         <h2>Informações</h2>
-        <h4>Meu nome é Roberto, mais conhecido como robrodric<br>Tenho 16 anos, e espero ter um futuro incrível</h4>
+        <h4>Meu nome é Roberto, mais conhecido como robrodric</h4>
+        <h4>Tenho 16 anos, e espero ter um futuro incrível</h4>
       </div>
       <div className="box">
         <h2>Curiosidades</h2>
