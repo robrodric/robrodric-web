@@ -14,10 +14,9 @@ function Home() {
         <div className="box">
         <h2>Habilidades</h2>
         <ul>
-          <li><i className="fa-brands fa-node-js"></i> Node.js</li>
-          <li><i className="fa-brands fa-js"></i> Javacript</li>
-          <li><i className="fa-brands fa-discord"></i> Discord.js</li>
-          <li><i className="fa-brands fa-react"></i> React.js</li>
+          <li><i className="fa-brands fa-node-js"></i></li>
+          <li><i className="fa-brands fa-js"></i></li>
+          <li><i className="fa-brands fa-react"></i></li>
         </ul>
         </div>
         <div className="box">
