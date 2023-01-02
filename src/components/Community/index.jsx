@@ -28,9 +28,17 @@ function Community() {
         <div className="box">
           <h2>&lt;CodeLab/&gt;</h2>
           <p>Dono & Developer</p>
-          <h4>Servidor oficial do robrodric, aqui você pode interagir, tirar dúvidas e encontrar novos amigos.</h4>
+          <h4>Servidor com foco no mundo tecnológico em que vivemos.</h4>
           <ul>
-            <li><a href="https://discord.gg/sidercord"><i class="fas fa-link"></i> Link</a></li>
+            <li><a href="https://discord.gg/rgqPnU534C"><i class="fas fa-link"></i> Link</a></li>
+          </ul>
+        </div>
+        <div className="box">
+          <h2>Gang'zKiil</h2>
+          <p>Developer</p>
+          <h4>Olá, Bem vindo(a), Gang'ZKiil, server oficial do Kiil e do Shhadow.</h4>
+          <ul>
+            <li><a href="https://discord.gg/963PrQv6wc"><i class="fas fa-link"></i> Link</a></li>
           </ul>
         </div>
     </div>
