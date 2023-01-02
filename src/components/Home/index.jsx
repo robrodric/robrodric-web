@@ -14,18 +14,18 @@ function Home() {
         <div className="box">
         <h2>Habilidades</h2>
         <ul>
-          <li><i className="fa-brands fa-node-js"></i></li>
-          <li><i className="fa-brands fa-js"></i></li>
-          <li><i className="fa-brands fa-react"></i></li>
+          <li><i className="fa-brands fa-node-js icon"></i></li>
+          <li><i className="fa-brands fa-js icon"></i></li>
+          <li><i className="fa-brands fa-react icon"></i></li>
         </ul>
         </div>
         <div className="box">
         <h2>Contato</h2>
         <ul>
-          <li><a href="https://twitter.com/robrodric"><i className="fa-brands fa-twitter"></i></a></li>
-          <li><a href="https://discord.com/users/655176205171163138"><i className="fa-brands fa-discord"></i></a></li>
-          <li><a href="https://github.com/robrodric"><i className="fa-brands fa-github"></i></a></li>
-          <li><a href="mailto:robrodric.contato@gmail.com"><i className="fas fa-envelope"></i></a></li>
+          <li><a href="https://twitter.com/robrodric"><i className="fa-brands fa-twitter icon"></i></a></li>
+          <li><a href="https://discord.com/users/655176205171163138"><i className="fa-brands fa-discord icon"></i></a></li>
+          <li><a href="https://github.com/robrodric"><i className="fa-brands fa-github icon"></i></a></li>
+          <li><a href="mailto:robrodric.contato@gmail.com"><i className="fas fa-envelope icon"></i></a></li>
 
         </ul>
         </div>
