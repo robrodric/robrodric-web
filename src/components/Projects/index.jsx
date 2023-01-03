@@ -14,7 +14,7 @@ function Projects() {
           <h4>Bot oficial do servidor Sidercord.</h4>
           <ul>
             <li><a href="https://discord.gg/sidercord"><i class="fas fa-link"></i> Link do servidor</a></li>
-            <li><a href="#"><i class="fas fa-link"></i> Repositório</a></li>
+            <li><a href="https://github.com/robrodric/sideral"><i class="fas fa-link"></i> Repositório</a></li>
           </ul>
         </div>
         <div className="box">

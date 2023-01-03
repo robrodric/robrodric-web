@@ -78,7 +78,7 @@ background-size: cover;
 }
 
 .home ul{
-    display: flex;
+    /* display: flex; */
     list-style-type: none;
 }
 

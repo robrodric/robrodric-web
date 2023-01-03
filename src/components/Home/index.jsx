@@ -13,7 +13,7 @@ function Home() {
         <div className="skills">
         <div className="box">
         <h2>Habilidades</h2>
-        <ul>
+        <ul className="home-div">
           <li><i className="fa-brands fa-node-js icon"></i></li>
           <li><i className="fa-brands fa-js icon"></i></li>
           <li><i className="fa-brands fa-react icon"></i></li>
@@ -21,7 +21,7 @@ function Home() {
         </div>
         <div className="box">
         <h2>Contato</h2>
-        <ul>
+        <ul className="home-div">
           <li><a href="https://twitter.com/robrodric"><i className="fa-brands fa-twitter icon"></i></a></li>
           <li><a href="https://discord.com/users/655176205171163138"><i className="fa-brands fa-discord icon"></i></a></li>
           <li><a href="https://github.com/robrodric"><i className="fa-brands fa-github icon"></i></a></li>

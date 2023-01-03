@@ -7,7 +7,18 @@
     padding-right: 7px;
     margin: 0 3px;
 }
-.icon {
-    width: 30px;
-    height: 30px;
+
+.home-div {
+    text-align: center;
+}
+
+.home-div li {
+    min-width: 50px;
+    min-height: 50px;
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.home-div ul {
+    display: flex;
 }

@@ -30,9 +30,27 @@ a {
 
 @media (max-width: 768px) {
     .botao ul li {
-        transform: scale(0.9);
+        /* transform: scale(0.8); */
     }
     .botao ul li a {
-        font-size: 90%;
+        font-size: 60%;
+    }
+}
+
+@media (max-width: 400px) {
+    .botao ul li {
+        transform: scale(0.8);
+    }
+    .botao ul li a {
+        font-size: 52%;
+    }
+}
+
+@media (max-width: 350px) {
+    .botao ul li {
+        transform: scale(0.8);
+    }
+    .botao ul li a {
+        font-size: 40%;
     }
 }
