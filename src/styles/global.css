@@ -84,3 +84,15 @@ background-size: cover;
 .texts {
     text-align: center;
 }
+
+::-webkit-scrollbar-track {
+    background: #1b1b1f;
+}
+::-webkit-scrollbar {
+    width: 10px;
+    background: #00000099;
+}
+::-webkit-scrollbar-thumb {
+    background: #ffffff99;
+    border-radius: 5px;
+}
