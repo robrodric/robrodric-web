@@ -7,6 +7,14 @@ import Projects from '../../components/Projects'
 
 function App() {
   const [count, setCount] = useState(0)
+
+  document.addEventListener('contextmenu', event => event.preventDefault());
+  document.onkeydown = function(e) {
+    if (e.ctrlKey && (e.keyCode === 67 || e.keyCode === 86 || e.keyCode === 85 ||    e.keyCode === 117 || e.keycode === 17 || e.keycode === 85)) {
+        
+    }
+    return false;
+};
   function home() {
     const home = document.querySelector('.home');
     const aboutme = document.querySelector('.aboutme');
