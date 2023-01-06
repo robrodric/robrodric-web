@@ -14,8 +14,6 @@ function Home() {
         <div className="box">
         <h2>Habilidades</h2>
         <ul className="home-div">
-          <li><i className="fa-brands fa-html5 icon"></i></li>
-          <li><i className="fa-brands fa-css3-alt icon"></i></li>
           <li><i className="fa-brands fa-square-js icon"></i></li>
           <li><i className="fa-brands fa-node-js icon"></i></li>
           <li><i className="fa-brands fa-js icon"></i></li>
@@ -37,10 +35,8 @@ function Home() {
           <li><a href="https://instagram.com/robrodric_"><i className="fa-brands fa-instagram icon"></i></a></li>
           <li><a href="https://discord.com/users/655176205171163138"><i className="fa-brands fa-discord icon"></i></a></li>
           <li><a href="https://tiktok.com/robrodric"><i className="fa-brands fa-tiktok icon"></i></a></li>
-          <li><a href="https://twitter.com/robrodric"><i className="fa-brands fa-twitter icon"></i></a></li>
           <li><a href="https://twitch.tv/robrodric"><i className="fa-brands fa-twitch icon"></i></a></li>
           <li><a href="https://youtube.com/c/robrodric"><i className="fa-brands fa-youtube icon"></i></a></li>
-          <li><a href="https://reddit.com/user/robrodric"><i className="fa-brands fa-reddit icon"></i></a></li>
         </ul>
         </div>
         </div>
