@@ -14,7 +14,6 @@ function Home() {
         <div className="box">
         <h2>Habilidades</h2>
         <ul className="home-div">
-          <li><i className="fa-brands fa-square-js icon"></i></li>
           <li><i className="fa-brands fa-node-js icon"></i></li>
           <li><i className="fa-brands fa-js icon"></i></li>
           <li><i className="fa-brands fa-react icon"></i></li>
