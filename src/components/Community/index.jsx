@@ -34,9 +34,9 @@ function Community() {
           </ul>
         </div>
         <div className="box">
-          <h2>Gang'zKiil</h2>
+          <h2>GK</h2>
           <p>Developer</p>
-          <h4>Olá, Bem vindo(a), Gang'ZKiil, server oficial do Kiil e do Shhadow.</h4>
+          <h4>Olá, Bem vindo(a), a GK, um servidor aconchegante.</h4>
           <ul>
             <li><a href="https://discord.gg/963PrQv6wc"><i class="fas fa-link"></i> Link</a></li>
           </ul>
